@@ -1,2 +1,2 @@
 # DM_project
-Project of the "Data Mining" exam, University of Pisa
+The project consisted in the analysis of a given dataset, cleaning it and preparing it for a clustering and a classification/prediction phase.
