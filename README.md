@@ -1,2 +1,2 @@
 # DM_project
-The project consisted in the analysis of a given dataset, cleaning it and preparing it for a clustering and a classification/prediction phase.
+Together with Carlo Tosoni and Michele Morisco we analyzed a given dataset, cleaning it and preparing it for a clustering and a classification/prediction phase.
